@@ -1,0 +1,11 @@
+## Title: SHTranslater
+## Author: Shinacho
+## Version 1.00
+## APIVersion: 101046
+## AddOnVersion: 10000
+## License: MIT
+## URL: xxx
+## Description: This is a prototype chat translation addon.
+
+
+SHTranslater/SHTranslater.lua
