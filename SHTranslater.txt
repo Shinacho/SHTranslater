@@ -8,4 +8,4 @@
 ## Description: This is a prototype chat translation addon.
 
 
-SHTranslater/SHTranslater.lua
+SHTranslater.lua
